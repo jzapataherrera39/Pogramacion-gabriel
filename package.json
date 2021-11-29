@@ -26,5 +26,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "```\r npm install\r ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzapataherrera39/Pogramacion-gabriel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzapataherrera39/Pogramacion-gabriel/issues"
+  },
+  "homepage": "https://github.com/jzapataherrera39/Pogramacion-gabriel#readme"
 }
