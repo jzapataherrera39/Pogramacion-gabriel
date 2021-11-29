@@ -11,7 +11,7 @@
       <br>
       
      <v-img
-      src="../assets/Ilustraciones/01.png"
+      src=""
       max-width="600"
     
  
@@ -58,19 +58,19 @@ export default {
 
 <style>
 #app {
-  background: url('../assets/Background/Fondo_inicio.png') no-repeat center center fixed !important;
+  background: url('') no-repeat center center fixed !important;
   background-size: cover;
   
 }
 .title {
-color:  rgb(255, 255, 255);
+color:  rgb(0, 0, 0);
 text-align: right;
 position: relative;
   bottom: -200px;
    right: 200px;
 }
 .subtitle {
-  color:  white;
+  color:  rgb(0, 0, 0);
 text-align: right;
 position: relative;
   bottom: -220px;
