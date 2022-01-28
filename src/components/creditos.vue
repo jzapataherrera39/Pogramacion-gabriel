@@ -133,7 +133,7 @@
 
 .usuario1 {
   border-radius: 100%;
-  background-image: url(../assets/Fotos/1.png);
+  background-image: url(../assets/Fotos/1.jpg);
   background-size: cover;
   width: 80px;
   height: 80px;
@@ -145,7 +145,7 @@
 
 .usuario2 {
   border-radius: 100%;
-  background-image: url(../assets/Fotos/1.png);
+  background-image: url(../assets/Fotos/2.jpg);
   background-size: cover;
   width: 80px;
   height: 80px;
@@ -157,7 +157,7 @@
 
 .usuario3 {
   border-radius: 100%;
-  background-image: url(../assets/Fotos/1.png);
+  background-image: url(../assets/Fotos/3.jpg);
   background-size: cover;
   width: 80px;
   height: 80px;
@@ -168,7 +168,7 @@
 
 .usuario4 {
   border-radius: 100%;
-  background-image: url(../assets/Fotos/1.png);
+  background-image: url(../assets/Fotos/4.jpg);
   background-size: cover;
   width: 80px;
   height: 80px;

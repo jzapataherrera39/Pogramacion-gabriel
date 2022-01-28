@@ -1,24 +1,24 @@
 {
-  "title": "Crossword",
-  "description": "Crossword puzzle for H5P",
+  "title": "Image Choice",
+  "description": "Create an Image Choice",
   "majorVersion": 0,
-  "minorVersion": 4,
-  "patchVersion": 7,
+  "minorVersion": 1,
+  "patchVersion": 8,
   "runnable": 1,
-  "author": "Language Training Center GmbH, Oliver Tacke",
+  "author": "Joubel AS",
   "license": "MIT",
-  "machineName": "H5P.Crossword",
+  "machineName": "H5P.MultiMediaChoice",
   "embedTypes": [
     "iframe"
   ],
   "preloadedJs": [
     {
-      "path": "dist/h5p-crossword.js"
+      "path": "dist/h5p-multi-media-choice.js"
     }
   ],
   "preloadedCss": [
     {
-      "path": "dist/h5p-crossword.css"
+      "path": "dist/h5p-multi-media-choice.css"
     }
   ],
   "preloadedDependencies": [
@@ -45,11 +45,6 @@
   ],
   "editorDependencies": [
     {
-      "machineName": "H5PEditor.VerticalTabs",
-      "majorVersion": 1,
-      "minorVersion": 3
-    },
-    {
       "machineName": "H5PEditor.RangeList",
       "majorVersion": 1,
       "minorVersion": 0
@@ -58,11 +53,6 @@
       "machineName": "H5PEditor.ShowWhen",
       "majorVersion": 1,
       "minorVersion": 0
-    },
-    {
-      "machineName": "H5PEditor.ColorSelector",
-      "majorVersion": 1,
-      "minorVersion": 2
     }
   ]
 }
