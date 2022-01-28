@@ -53,5 +53,13 @@
     "last 2 versions",
     "not dead"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzapataherrera39/Pogramacion-gabriel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jzapataherrera39/Pogramacion-gabriel/issues"
+  },
+  "homepage": "https://github.com/jzapataherrera39/Pogramacion-gabriel#readme"
 }
