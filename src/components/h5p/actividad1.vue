@@ -17,7 +17,7 @@ export default {
   mounted(){
     const el = document.getElementById('h5p-container');
     const options = {
-    h5pJsonPath: "/actividades/acti1",
+    h5pJsonPath: "/actividades/activiti1",
     frameJs: "/actividades/frame.bundle.js",
     frameCss: "/actividades/styles/h5p.css",
      };

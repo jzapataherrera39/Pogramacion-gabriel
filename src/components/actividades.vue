@@ -20,6 +20,12 @@
             <h1>ACTIVIDAD 2</h1>
           </v-btn>
         </v-col>
+         <v-col align="center">
+          <v-btn :to="{ name: 'acti3' }"  color="white" >
+            <!-- <v-icon class="my-n ml-n3" size="50"> mdi-gamepad-round-up </v-icon> -->
+            <h1>ACTIVIDAD 3</h1>
+          </v-btn>
+        </v-col>
        <!--  <v-col align="center">
           <v-btn :to="{ name: 'hexadecimal' }" color="deep-orange" class="btn_background mx-5" block outlined dark rounded x-large>
             <v-icon class="my-n ml-n3" size="50"> mdi-gamepad-round-down</v-icon>

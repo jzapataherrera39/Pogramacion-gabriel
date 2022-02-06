@@ -7,7 +7,9 @@ import entrada from "../components/entrada.vue";
 import actividades from"../components/actividades";
 import acti1 from "../components/h5p/actividad1";
 import acti2 from "../components/h5p/actividad2";
+import acti3 from "../components/h5p/actividad3";
 import evaluacion from"../components/evaluacion";
+import evalu from "../components/h5p/evalu";
 Vue.use(VueRouter)
 
 const routes = [
@@ -41,7 +43,12 @@ const routes = [
                 path: 'acti2',
                 name: 'acti2',
                 component: acti2,
-             } 
+             } ,
+             {
+              path: 'acti3',
+              name: 'acti3',
+              component: acti3,
+           } ,
 
 
         ],
@@ -51,6 +58,11 @@ const routes = [
           name: 'evaluacion',
           component: evaluacion,
           children: [
+              {
+                   path: 'evalu',
+                   name: 'evalu',
+                   component: evalu,
+                },
 
         ],
           },
